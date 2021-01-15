@@ -1,0 +1,72 @@
+{
+  "persistent-context": [
+    {
+      "key": {
+        "t1": "123456789AB",
+        "t2": "default",
+        "t3": "PRIVATE",
+        "t4": "1111m57XA6B",
+        "t5": "NQm6nKp8qFC",
+        "t6": "jpXCZedGfVM",
+        "t7": "postBotMessagesHistoryByMatterId",
+        "t8": "jpXCZedAfVM:REGRESSION/MBF/LICE-2358/BUILD1"
+      },
+      "value": {
+        "messageType": "MATTER_MESSAGES_HISTORY",
+        "expandedTest": true,
+        "mod": 0,
+        "messages": [
+          "Long matter"
+        ],
+        "crtd": 0
+      }
+    },
+    {
+      "key": {
+        "t1": "123456789AB",
+        "t2": "default",
+        "t3": "PRIVATE",
+        "t4": "1111m57XA6B",
+        "t5": "NQm6nKp8qFC",
+        "t6": "jpXCZedGfVM",
+        "t7": "postBotMessagesHistoryByMatterId",
+        "t8": "jpXCZedAfVa:PROJECT2/MB-SMOKE/BUILD1"
+      },
+      "value": {
+        "messageType": "MATTER_MESSAGES_HISTORY",
+        "expandedTest": true,
+        "mod": 0,
+        "messages": [
+          "Test post",
+          "Test post 2"
+        ],
+        "crtd": 0
+      }
+    },
+    {
+      "key": {
+        "t1": "123456789AB",
+        "t2": "default",
+        "t3": "PRIVATE",
+        "t4": "1111m57XA6B",
+        "t5": "NQm6nKp8qFC",
+        "t6": "jpXCZedGfVM",
+        "t7": "postBotMessagesHistoryByMatterId",
+        "t8": "apXCZedAfVM:MBF/LICE-2357"
+      },
+      "value": {
+        "messageType": "MATTER_MESSAGES_HISTORY",
+        "expandedTest": true,
+        "mod": 0,
+        "messages": [
+          "Test message",
+          "Second message",
+          "Third message",
+          "Test message, }NafCxxk3vX8]1114oMZZggo:Rodion Zhitomirsky[kwwgYancu3y{  }NafCxxk3vX8]1114oMZZj83:Demian Belsky[kwwgYancu3y{ ",
+          "Test message, }NafCxxk3vX8]1114oMZZggo:Rodion Zhitomirsky[kwwgYancu3y{  }NafCxxk3vX8]1114oMZZj83:Demian Belsky[kwwgYancu3y{ "
+        ],
+        "crtd": 0
+      }
+    }
+  ]
+}
